@@ -823,36 +823,32 @@ nav{
 }
 
 .main .text{
-    position: absolute;
-    top: 25%;
-    left: 5%;
+    height: 40vh;
+    width: 60%;
+    position: relative;
 }
 
-.main .text h1{
-    font-size: 10rem;
-    color: #e6e6e6;
-    z-index: -10;
-}
+
 
 .main .text h2{
     position: absolute;
-    top: 30%;
-    font-size: 4rem;   
+    top: 20%;
+    font-size: 3rem;   
     color: #02119c;
 }
 
 .main .text h3{
     position: absolute;
-    top: 66%;
-    left: 1%;
+    top: 32%;
+    left: 2%;
     font-size: 1rem;
     color: rgb(56, 56, 56);
 }
 
 .main .text .contact-main{
     position: absolute;
-    top: 78%;
-    left: 1%;
+    top: 38%;
+    left: 2%;
     font-size: 1rem;
 }
 
